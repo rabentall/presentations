@@ -18,6 +18,10 @@ Delivered to ACCU Oxford, September 2017.
 
 Delivered to ACCU Oxford, February 2015.
 
+## Follow the money: An introduction to Cost of Quality for software
+
+March 2014
+
 ## Learning and Applying the Personal Software Process
 
 Paper published in ACCU CVU 244, September 2012.
